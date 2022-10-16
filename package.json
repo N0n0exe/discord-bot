@@ -1,0 +1,21 @@
+{
+  "name": "bot-v14",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "Nono.exe",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^1.1.0",
+    "discord-giveaway-easy": "^2.2.3",
+    "discord-html-transcripts": "^2.6.1",
+    "discord.js": "^14.4.0",
+    "fs": "^0.0.1-security",
+    "libquery": "^1.0.2",
+    "ms": "^2.1.3",
+    "mysql": "^2.18.1"
+  }
+}
